@@ -1,24 +1,3 @@
 # Stage_ICVL2026
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <title>Offre de stage ICVL 2026</title>
-  <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-    }
-    iframe {
-      width: 100%;
-      height: 100%;
-      border: none;
-    }
-  </style>
-</head>
-<body>
-  <!-- Le PDF est dans le même dossier que ce fichier -->
-  <iframe src="Offre_stage_ICVL2026.pdf#view=FitH"></iframe>
-</body>
-</html>
+
+Contacts: silvia.federzoni@univ-orleans.fr
